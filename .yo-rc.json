@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "site.paranoia",
+      "nativeLanguage": "zh-cn"
+    },
+    "jhipsterVersion": "5.5.0",
+    "applicationType": "monolith",
+    "baseName": "jhipster",
+    "packageName": "site.paranoia",
+    "packageFolder": "site/paranoia",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MDJlYTA1MDExZGM3ZTJiNjFiMDhkYTE4MDFhNzkxZDMzMmYyM2QyYzRlOWU4MzgzMDgwNzY4MjlhZjA0MmQyZDViNDA2NWMxMWMwZDQ2ZDNkOTY1NTU5NTZkNjYzYTBjYzFkMDVjZTNkYjM0MDgwM2FmZDBhMzM4MTQxZjYyYjI=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "zh-cn",
+    "languages": [
+      "zh-cn"
+    ]
+  }
+}
